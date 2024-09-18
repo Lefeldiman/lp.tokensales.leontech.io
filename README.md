@@ -1,14 +1,13 @@
-# WhatATheme
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
+# LTCH token
 
-#### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
+**LTCH token** is a token sales landing page for Leontech.io company.
 
-![WhatATheme](assets/images/meta.jpg)
+## You can checkout the [**live production here**](https://tokensales.leontech.io/) :boom:
 
-# Features :sparkles:
-* Free and Easy setup
-* No Coding Required
-* Compatible with [Github Pages](https://pages.github.com/)
+![WhatATheme](assets/images/meta.png)
+
+## Features :sparkles:
+
 * Responsive and Blogging Ready
 * HTML Compressor using [Jekyll Compress HTML](https://jch.penibelst.de/)
 * Minified CSS using SaSS
@@ -19,12 +18,18 @@
 * Analytics using Google Analytics
 * Instant Search using [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/)
 
-# Installation :books:
-### System Requirements
+## Installation :books:
+
+## System Requirements
+
 * [Ruby](https://www.ruby-lang.org/en/)
+
 * [Jekyll](https://jekyllrb.com/)
+
 > You can read **What is Jekyll** [**here**](https://thedevslot.github.io/WhatATheme/blog/what-is-jekyll-how-to-use-it)
+
 ### Up and Running
+
 * Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
 * Clone or download the repository into directory of your choice: `git clone https://github.com/thedevslot/WhatATheme.git`
 * Inside the directory run `bundle install`
@@ -32,11 +37,10 @@
 
 > You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
 
-[<img src="https://i.imgur.com/TVI946Z.png" width="250" />](https://youtu.be/VfPa2c9kwhQ)
-
 ---
 
 ### Content Credits :green_heart:
+
 * [Hero Image](https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) used as a background image in the very first section of Homepage.
 * [Author Image](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png) used in the Author Section.
 * [Font Awesome](https://fontawesome.com/)
@@ -45,9 +49,6 @@
 
 ---
 
-### Credits :bulb:
-* [Sneha Omer](http://sassyecoder.github.io/)
-* [Harsh Trivedi](http://harsh98trivedi.github.io/)
-
 ### License
+
 The contents of this repository are licensed under the [**GNU General Public License v2.0**](https://github.com/thedevslot/WhatATheme/blob/master/LICENSE)

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Swap</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+  <div class="swap-container">
+    <div class="swap-card">
+      <div class="swap-section">
+        <label for="from-token">From</label>
+        <select id="from-token" class="token-select">
+          <option value="SOL">SOL</option>
+          <!-- Add more options here -->
+        </select>
+        <div class="input-container">
+          <input type="number" id="from-amount" placeholder="0">
+          <button class="max-button">Max</button>
+        </div>
+        <p class="approx-value">~$0</p>
+      </div>
+      <div class="arrow">
+        <span>&#x2193;</span>
+      </div>
+      <div class="swap-section">
+        <label for="to-token">To</label>
+        <select id="to-token" class="token-select">
+          <option value="RAY">RAY</option>
+          <!-- Add more options here -->
+        </select>
+        <div class="input-container">
+          <input type="number" id="to-amount" placeholder="0">
+          <button class="max-button">Max</button>
+        </div>
+        <p class="approx-value">~$0</p>
+      </div>
+      <button class="connect-wallet">Connect Wallet</button>
+    </div>
+  </div>
+  <script src="/assets/js/swap.js"></script>
+</body>
+
+</html>
