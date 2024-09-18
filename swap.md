@@ -1,6 +1,6 @@
 ---
 layout: swap
-title: Swap Interface
+title: Swap
 permalink: /swap/
 ---
 
